@@ -1,4 +1,4 @@
-# DEV PORTIFÓLIO
+# DEV PORTIFÓLIO - DEV PORTIFOLIO
 
 
 ## RESUMO - SUMMARY
@@ -48,11 +48,11 @@ module.exports = {
 ## RODANDO - RUN
 
 ### PT - BR
-Primeiro, na raiz do projeto e depois no diretório dev_portfolio/dev_portfolio, execute no terminal:
+Primeiro, na raiz do projeto e depois no diretório dev/dev_portfolio, execute no terminal:
 `npm start`
 
 ### EN
-First, at the root of the project and then in the dev_portfolio / dev_portfolio directory, run in the terminal:
+First, at the root of the project and then in the dev/ dev_portfolio directory, run in the terminal:
 `npm start`
 
 ## SE DIVERTA - ENJOY
@@ -61,10 +61,11 @@ Agora fique à vontade para personalizar o portifólio da sua maneira.
 ### EN 
 Now feel free to customize the portfolio your way.
 
-## CRIADOM COM - Built With
+## CRIADO COM - BUILT WITH
 - React js
 - React Hooks
 - NodeMailer
+- express
 - Materialize CSS
 - axios
 - sweetAlert
